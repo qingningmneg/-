@@ -1,0 +1,380 @@
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\Resources\default.png
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\Resources\image.jpg
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\QA.exe.config
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\QA.exe
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\QA.pdb
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.Desktop.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Images.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Office.v21.1.Core.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v21.1.Core.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.PivotGrid.v21.1.Core.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Printing.v21.1.Core.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v21.1.Core.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v21.1.Export.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Sparkline.v21.1.Core.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Utils.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraNavBar.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraWizard.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.BonusSkins.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraGrid.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraBars.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraEditors.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraLayout.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPivotGrid.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPrinting.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraRichEdit.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraTreeList.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraVerticalGrid.v21.1.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OOXML.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXml4Net.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXmlFormats.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\NPOI.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\BouncyCastle.Crypto.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\WinControls.dll
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\bin\Debug\net48\WinControls.pdb
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.Properties.Resources.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEdit.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditModify.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditPwd.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLogin.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLoginQrcode.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserModifyPwd.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserPwd.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserRegister.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentExamination.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentHello.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentQuestions.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserchoice.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserMainFrom.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmText.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditQuestions.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditSearch.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditType.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditYear.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserMainFrom.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewQuestions.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewType.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewYear.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserSearchQuestions.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserYear.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.GenerateResource.cache
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfoInputs.cache
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfo.cs
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CoreCompileInputs.cache
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CopyComplete
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.exe
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.pdb
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImport.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImportAnswer.resources
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.csprojAssemblyReference.cache
+C:\Kuade-WorldSkills-ZuoYe\StageTest_20210623\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeachUserEditPosition.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.AssemblyReference.cache
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.SuggestedBindingRedirects.cache
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.Properties.Resources.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEdit.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditModify.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditPwd.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLogin.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLoginQrcode.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserModifyPwd.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserPwd.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserRegister.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentExamination.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentHello.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentQuestions.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserchoice.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserMainFrom.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmText.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditQuestions.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditSearch.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditType.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditYear.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImport.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImportAnswer.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserMainFrom.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewQuestions.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewType.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewYear.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserSearchQuestions.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserYear.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeachUserEditPosition.resources
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.GenerateResource.cache
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.GeneratedMSBuildEditorConfig.editorconfig
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfoInputs.cache
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfo.cs
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CoreCompileInputs.cache
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.exe
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.pdb
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\Resources\default.png
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\Resources\image.jpg
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\QA.exe.config
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\QA.exe
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\QA.pdb
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.Desktop.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Images.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Office.v21.2.Core.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v21.2.Core.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v21.2.Drawing.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.PivotGrid.v21.2.Core.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Printing.v21.2.Core.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v21.2.Core.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v21.2.Export.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Sparkline.v21.2.Core.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Utils.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraNavBar.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraWizard.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.BonusSkins.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraGrid.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraBars.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraEditors.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraLayout.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPivotGrid.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPrinting.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraRichEdit.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraTreeList.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraVerticalGrid.v21.2.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\Newtonsoft.Json.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OOXML.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXml4Net.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXmlFormats.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\NPOI.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\BouncyCastle.Crypto.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\WinControls.dll
+G:\整个u盘的文件\zhuminghang\QA\QA\bin\Debug\net48\WinControls.pdb
+G:\整个u盘的文件\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CopyComplete
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\Resources\default.png
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\Resources\image.jpg
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\QA.exe.config
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\QA.exe
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\QA.pdb
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.Desktop.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Drawing.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Images.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Office.v22.1.Core.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v22.1.Core.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v22.1.Drawing.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.PivotGrid.v22.1.Core.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Printing.v22.1.Core.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v22.1.Core.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v22.1.Export.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Sparkline.v22.1.Core.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Utils.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraNavBar.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraWizard.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.BonusSkins.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraGrid.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraBars.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraEditors.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraLayout.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPivotGrid.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPrinting.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraRichEdit.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraTreeList.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraVerticalGrid.v22.1.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\Newtonsoft.Json.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OOXML.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXml4Net.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXmlFormats.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\NPOI.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\BouncyCastle.Crypto.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\WinControls.dll
+E:\visual Studio 2022\zhuminghang\QA\QA\bin\Debug\net48\WinControls.pdb
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.AssemblyReference.cache
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.SuggestedBindingRedirects.cache
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.Properties.Resources.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEdit.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditModify.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditPwd.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLogin.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLoginQrcode.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserModifyPwd.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserPwd.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserRegister.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentExamination.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentHello.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentQuestions.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserchoice.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserMainFrom.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmText.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditQuestions.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditSearch.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditType.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditYear.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImport.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImportAnswer.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserMainFrom.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewQuestions.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewType.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewYear.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserSearchQuestions.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserYear.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeachUserEditPosition.resources
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.GenerateResource.cache
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfoInputs.cache
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfo.cs
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CoreCompileInputs.cache
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CopyComplete
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.exe
+E:\visual Studio 2022\zhuminghang\QA\QA\obj\Debug\net48\QA.pdb
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.AssemblyReference.cache
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.SuggestedBindingRedirects.cache
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.Properties.Resources.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEdit.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditModify.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditPwd.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLogin.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLoginQrcode.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserModifyPwd.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserPwd.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserRegister.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentExamination.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentHello.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentQuestions.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserchoice.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserMainFrom.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmText.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditQuestions.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditSearch.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditType.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditYear.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImport.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImportAnswer.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserMainFrom.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewQuestions.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewType.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewYear.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserSearchQuestions.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserYear.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeachUserEditPosition.resources
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.GenerateResource.cache
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.GeneratedMSBuildEditorConfig.editorconfig
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfoInputs.cache
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.AssemblyInfo.cs
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CoreCompileInputs.cache
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.exe
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.pdb
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\Resources\default.png
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\Resources\image.jpg
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\QA.exe.config
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\QA.exe
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\QA.pdb
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Data.Desktop.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Drawing.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Images.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Office.v22.1.Core.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v22.1.Core.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Pdf.v22.1.Drawing.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.PivotGrid.v22.1.Core.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Printing.v22.1.Core.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v22.1.Core.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v22.1.Export.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Sparkline.v22.1.Core.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.Utils.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraNavBar.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraWizard.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.BonusSkins.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraGrid.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraBars.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraEditors.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraLayout.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPivotGrid.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraPrinting.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraRichEdit.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraTreeList.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\DevExpress.XtraVerticalGrid.v22.1.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\Newtonsoft.Json.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OOXML.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXml4Net.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\NPOI.OpenXmlFormats.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\NPOI.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\BouncyCastle.Crypto.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\WinControls.dll
+E:\githeb\QA\QA\zhuminghang\QA\QA\bin\Debug\net48\WinControls.pdb
+E:\githeb\QA\QA\zhuminghang\QA\QA\obj\Debug\net48\QA.csproj.CopyComplete
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\Resources\default.png
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\Resources\image.jpg
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\QA.exe.config
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\QA.exe
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\QA.pdb
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Data.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Data.Desktop.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Images.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Office.v21.1.Core.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Pdf.v21.1.Core.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Pdf.v21.1.Drawing.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.PivotGrid.v21.1.Core.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Printing.v21.1.Core.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v21.1.Core.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.RichEdit.v21.1.Export.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Sparkline.v21.1.Core.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.Utils.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraNavBar.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraWizard.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.BonusSkins.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraGrid.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraBars.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraEditors.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraLayout.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraPivotGrid.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraPrinting.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraRichEdit.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraTreeList.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\DevExpress.XtraVerticalGrid.v21.1.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\Newtonsoft.Json.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\NPOI.OOXML.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\NPOI.OpenXml4Net.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\NPOI.OpenXmlFormats.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\NPOI.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\BouncyCastle.Crypto.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\ICSharpCode.SharpZipLib.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\WinControls.dll
+E:\githeb\QA\QA\Lemon\QA\QA\bin\Debug\net48\WinControls.pdb
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.csproj.AssemblyReference.cache
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.csproj.SuggestedBindingRedirects.cache
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.Properties.Resources.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEdit.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditModify.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserEditPwd.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLogin.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserLoginQrcode.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserModifyPwd.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserPwd.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.FrmUserRegister.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentExamination.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentHello.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentQuestions.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserchoice.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmStudentUserMainFrom.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Student.FrmText.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditQuestions.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditSearch.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditType.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserEditYear.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImport.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserImportAnswer.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserMainFrom.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewQuestions.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewType.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserNewYear.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserSearchQuestions.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeacherUserYear.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.winfrom.Teacher.FrmTeachUserEditPosition.resources
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.csproj.GenerateResource.cache
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.GeneratedMSBuildEditorConfig.editorconfig
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.AssemblyInfoInputs.cache
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.AssemblyInfo.cs
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.csproj.CoreCompileInputs.cache
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.csproj.CopyComplete
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.exe
+E:\githeb\QA\QA\Lemon\QA\QA\obj\Debug\net48\QA.pdb

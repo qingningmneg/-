@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body style="text-align:center;">
+    <p style="font-size: 19px; font-weight: bold;">单击按钮删除元素</p>
+    <p id="remove"> 这是一个测试文本！</p>
+    <button onClick="Fun()">点击这里</button>
+    <p id="DOWN" style="color: green; font-size: 24px; font-weight: bold;"> </p>
+    <!-- Script to remove HTML element -->
+    <script>
+        var down = document.getElementById('DOWN');
+        var div = document.getElementById('remove');
+        function Fun() {
+            div.parentNode.removeChild(div);
+            down.innerHTML = "元素被删除！";
+        }
+    </script>
+</body>
+</html>
